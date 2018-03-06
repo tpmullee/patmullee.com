@@ -1,22 +1,22 @@
 {
     "basics": {
-        "name": "<FULL_NAME>",
-        "label": "<PROFESSION>",
-        "picture": "<PHOTO>",
-        "email": "<EMAIL_ADDRESS>",
-        "phone": "<PHONE_NUMBER>",
-        "website": "<WEBSITE>",
+        "name": "Pat Mullee",
+        "label": "Analytics Product Manager",
+        "picture": "<Image HERE>",
+        "email": "tpmullee@gmail.com",
+        "phone": "513-319-8242",
+        "website": "www.patmullee.com",
         "summary": [
             "<SUMMARY_1>",
             "<SUMMARY_2>",
             "<SUMMARY_3>"
         ],
         "location": {
-            "address": "<ADDRESS>",
-            "postalCode": "<POSTAL_CODE>",
-            "city": "<CITY>",
-            "countryCode": "<COUNTRY>",
-            "region": "<REGION>"
+            "address": "1435 N Dearborn St",
+            "postalCode": "60610",
+            "city": "Chicago",
+            "countryCode": "USA",
+            "region": "CST"
         },
         "profiles": [
             {
@@ -28,11 +28,11 @@
     },
     "work": [
         {
-            "company": "<COMPANY_NAME>",
-            "position": "<POSITION>",
-            "website": "<COMPANY_WEBSITE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
+            "company": "GE Transporation",
+            "position": "Analytics Product Manager",
+            "website": "www.getransportation.com",
+            "startDate": "June, 2014",
+            "endDate": "Present",
             "summary": "<SUMMARY>",
             "highlights": [
                 "<HIGHTLIGHT_1>",
@@ -58,12 +58,25 @@
     ],
     "education": [
         {
-            "institution": "<INSTITUTION_NAME>",
-            "area": "<AREA_OF_STUDY>",
+            "institution": "Indiana University: Kelley School of Business",
+            "area": "Masters of Business Adminstration",
             "studyType": "<STUDY_TYPE>",
-            "startDate": "<START_DATE>",
-            "endDate": "<END_DATE>",
-            "gpa": "<GRADE_POINT_AVERAGE>",
+            "startDate": "January 2018",
+            "endDate": "February 2019",
+            "summary": "<SUMMARY>",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        },
+        {
+            "institution": "University of Cincinnati: Lindner College of Business",
+            "area": "Management Information Systems",
+            "studyType": "<STUDY_TYPE>",
+            "startDate": "Sept 2010",
+            "endDate": "Jan 2014",
+            "gpa": "3.82",
             "summary": "<SUMMARY>",
             "courses": [
                 "<COURSE_1>",

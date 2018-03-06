@@ -1,25 +1,25 @@
 {
-  "name": "suddi.github.io",
+  "name": "patmullee.com",
   "private": true,
-  "description": "Sudharshan Ravindran personal site",
+  "description": "Pat Mullee personal site",
   "version": "1.2.2",
   "homepage": "https://suddi.github.io",
   "author": {
-    "name": "Sudharshan Ravindran",
-    "email": "suddi@mail.io",
-    "url": "https://suddi.github.io"
+    "name": "Pat Mullee",
+    "email": "tpmullee@gmail.com",
+    "url": "www.patmullee.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/suddi/suddi.github.io"
+    "url": "https://github.com/tpmullee/patmullee.com"
   },
   "bugs": {
-    "url": "https://github.com/suddi/suddi.github.io/issues"
+    "url": "https://github.com/tpmullee/patmullee.com/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/suddi/suddi.github.io/LICENSE"
+      "url": "https://github.com/tpmullee/patmullee.com/LICENSE"
     }
   ],
   "engines": {
