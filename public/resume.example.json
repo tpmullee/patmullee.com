@@ -2,14 +2,12 @@
     "basics": {
         "name": "Pat Mullee",
         "label": "Analytics Product Manager",
-        "picture": "<Image HERE>",
+        "picture": "public/images/pat.jpg",
         "email": "tpmullee@gmail.com",
         "phone": "513-319-8242",
         "website": "www.patmullee.com",
         "summary": [
-            "<SUMMARY_1>",
-            "<SUMMARY_2>",
-            "<SUMMARY_3>"
+            "To Be Completed"
         ],
         "location": {
             "address": "1435 N Dearborn St",
@@ -33,11 +31,10 @@
             "website": "www.getransportation.com",
             "startDate": "June, 2014",
             "endDate": "Present",
-            "summary": "<SUMMARY>",
+            "summary": "Services",
             "highlights": [
-                "<HIGHTLIGHT_1>",
-                "<HIGHTLIGHT_2>",
-                "<HIGHTLIGHT_3>"
+                "Data & Analytics Inclined",
+                "Leadership Program Graduate"
             ]
         }
     ],
@@ -60,7 +57,7 @@
         {
             "institution": "Indiana University: Kelley School of Business",
             "area": "Masters of Business Adminstration",
-            "studyType": "<STUDY_TYPE>",
+            "studyType": "College",
             "startDate": "January 2018",
             "endDate": "February 2019",
             "summary": "<SUMMARY>",
@@ -74,8 +71,8 @@
             "institution": "University of Cincinnati: Lindner College of Business",
             "area": "Management Information Systems",
             "studyType": "<STUDY_TYPE>",
-            "startDate": "Sept 2010",
-            "endDate": "Jan 2014",
+            "startDate": "2010",
+            "endDate": "2014",
             "gpa": "3.82",
             "summary": "<SUMMARY>",
             "courses": [
@@ -114,13 +111,54 @@
     ],
     "skills": [
         {
-            "title": "<DESCRIPTION_TITLE>",
+            "title": "Management",
             "description": [
-                "<DESCRIPTION_1>",
-                "<DESCRIPTION_2>",
-                "<DESCRIPTION_3>"
+                "Enter Description"
             ],
             "skillDetails": [
+                {
+                    "name": "Product Management",
+                    "level": "50",
+                    "keywords": [
+                        "<KEYWORD_1>"
+                    ]
+                },
+                {
+                    "name": "Analytic Application",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Project Management",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+
+            ]
+        },
+        {
+            "title": "Analytics",
+            "description": [
+                "Enter Description"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Business Translation, Application  ",
+                    "level": "60",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
                 {
                     "name": "<SKILL_NAME>",
                     "level": "<SKILL_LEVEL>",
@@ -129,7 +167,53 @@
                         "<KEYWORD_2>",
                         "<KEYWORD_3>"
                     ]
+                },
+                {
+                    "name": "R || Python || Octave",
+                    "level": "50",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
                 }
+
+            ]
+        },
+        {
+            "title": "Cloud Computing",
+            "description": [
+                "Enter Description"
+            ],
+            "skillDetails": [
+                {
+                    "name": "Data Engineering",
+                    "level": "65",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Serverless Architectures",
+                    "level": "50",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                },
+                {
+                    "name": "Business Intelligence",
+                    "level": "75",
+                    "keywords": [
+                        "<KEYWORD_1>",
+                        "<KEYWORD_2>",
+                        "<KEYWORD_3>"
+                    ]
+                }
+
             ]
         }
     ],
