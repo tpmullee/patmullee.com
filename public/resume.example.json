@@ -160,15 +160,6 @@
                     ]
                 },
                 {
-                    "name": "<SKILL_NAME>",
-                    "level": "<SKILL_LEVEL>",
-                    "keywords": [
-                        "<KEYWORD_1>",
-                        "<KEYWORD_2>",
-                        "<KEYWORD_3>"
-                    ]
-                },
-                {
                     "name": "R || Python || Octave",
                     "level": "50",
                     "keywords": [
