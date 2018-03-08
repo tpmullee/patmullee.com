@@ -14,20 +14,20 @@ function getConfig(config) {
     const extendedPlugins = plugins.concat([
         new S3Plugin({
             s3Options: {
-                region: process.env.AWS_REGION
+                region: "us-east-1"
             },
             s3UploadOptions: {
-                Bucket: process.env.AWS_S3_BUCKET
+                Bucket: "patmullee.com"
             },
             basePathTransform: getBasePath,
             include: /index\.html$/
         }),
         new S3Plugin({
             s3Options: {
-                region: process.env.AWS_REGION
+                region: "us-east-1"
             },
             s3UploadOptions: {
-                Bucket: process.env.AWS_S3_BUCKET
+                Bucket: "patmullee.com"
             },
             basePathTransform: getBasePath.bind(null, 'public'),
             directory: 'public'

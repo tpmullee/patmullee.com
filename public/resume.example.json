@@ -7,12 +7,12 @@
         "phone": "513-319-8242",
         "website": "www.patmullee.com",
         "summary": [
-            "To Be Completed"
+            "Thanks for visiting! Currently, I'm an Analytics Product Manager demonstrating success daily in conceptualizing and implementing cloud-based analytical computing solutions in the transportation and manufacturing industries. My focus this year is sharpening my analytical skillset and growing my professional experience with the goals listed below."
         ],
         "location": {
             "address": "1435 N Dearborn St",
             "postalCode": "60610",
-            "city": "Chicago",
+            "city": "Chicago, IL",
             "countryCode": "USA",
             "region": "CST"
         },
@@ -33,8 +33,8 @@
             "endDate": "Present",
             "summary": "Services",
             "highlights": [
-                "Data & Analytics Inclined",
-                "Leadership Program Graduate"
+                "Eight months into my current role, I've spent a majority of my career at GE in data-centric roles, consistently moving toward the Analytics space. I now have the foundation of several areas of IT to apply ideation and imlpementation in my current space.",
+                "Digital Technology Leadership Program Graduate"
             ]
         }
     ],
@@ -60,7 +60,20 @@
             "studyType": "College",
             "startDate": "January 2018",
             "endDate": "February 2019",
-            "summary": "<SUMMARY>",
+            "summary": "Remote",
+            "courses": [
+                "<COURSE_1>",
+                "<COURSE_2>",
+                "<COURSE_3>"
+            ]
+        },
+        {
+            "institution": "Indiana University: Kelley School of Business",
+            "area": "Certificate in IT Management",
+            "studyType": "Graduate",
+            "startDate": "September 2015",
+            "endDate": "January 2017",
+            "summary": "Bloomington, Indiana",
             "courses": [
                 "<COURSE_1>",
                 "<COURSE_2>",
@@ -70,11 +83,11 @@
         {
             "institution": "University of Cincinnati: Lindner College of Business",
             "area": "Management Information Systems",
-            "studyType": "<STUDY_TYPE>",
+            "studyType": "College",
             "startDate": "2010",
             "endDate": "2014",
             "gpa": "3.82",
-            "summary": "<SUMMARY>",
+            "summary": "Cincinnati, Ohio",
             "courses": [
                 "<COURSE_1>",
                 "<COURSE_2>",
@@ -118,7 +131,7 @@
             "skillDetails": [
                 {
                     "name": "Product Management",
-                    "level": "50",
+                    "level": "65",
                     "keywords": [
                         "<KEYWORD_1>"
                     ]
@@ -134,7 +147,7 @@
                 },
                 {
                     "name": "Project Management",
-                    "level": "75",
+                    "level": "85",
                     "keywords": [
                         "<KEYWORD_1>",
                         "<KEYWORD_2>",
