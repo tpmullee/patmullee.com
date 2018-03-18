@@ -50,6 +50,7 @@ const Home = React.createClass({
                     basics={this.state.resume.basics}
                     work={this.state.resume.work}
                     education={this.state.resume.education}
+                    certificates={this.state.resume.certificates}
                     skills={this.state.resume.skills}
                     languages={this.state.resume.languages}
                     portfolio={this.state.resume.projects}

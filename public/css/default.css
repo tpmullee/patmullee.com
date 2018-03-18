@@ -296,6 +296,7 @@ a, a:visited {
    -o-transition: color .3s ease-in-out;
    transition: color .3s ease-in-out;
 }
+
 a:hover, a:focus { color: #313131; }
 p a, p a:visited { line-height: inherit; }
 
@@ -802,7 +803,3 @@ properly.
 	margin-right: auto !important;
 	text-align: center !important;
 }
-
-
-
-

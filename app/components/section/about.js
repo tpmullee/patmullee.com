@@ -46,16 +46,16 @@ const About = React.createClass({
                                     </a>
                                 </p>
                             </div>
-                            {/*
+                            {
                             <div className='columns download'>
                                 <p>
-                                    <a href='#' className='button'>
+                                    <a href={this.props.content.resume} className='button'>
                                         <i className='fa fa-download'></i>
                                         Download Resume
                                     </a>
                                 </p>
                             </div>
-                            */}
+                            }
                         </div>
                     </div>
                 </div>

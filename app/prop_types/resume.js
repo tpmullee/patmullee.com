@@ -100,6 +100,19 @@ module.exports.educationSet = PropTypes.arrayOf(
     module.exports.education
 ).isRequired;
 
+module.exports.certificates = PropTypes.shape({
+    institution: PropTypes.string.isRequired,
+    title: PropTypes.string.isRequired,
+    summary: PropTypes.string.isRequired,
+    achievementDate: PropTypes.string.isRequired,
+    title2: PropTypes.string.isRequired,
+    summary2: PropTypes.string.isRequired,
+    achievementDate2: PropTypes.string.isRequired
+});
+module.exports.certificatesSet = PropTypes.arrayOf(
+    module.exports.certificates
+).isRequired;
+
 module.exports.awards = PropTypes.shape({
     title: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,

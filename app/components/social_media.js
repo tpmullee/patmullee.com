@@ -15,7 +15,7 @@ function mapIcon(socialMedia) {
         case 'quora':
             return (
                 <i className='fa fa-fw'>
-                    <strong className='fa-quora'>Q</strong>
+                    <strong className='fa-quora'>"Quora"</strong>
                 </i>
             );
         default:
